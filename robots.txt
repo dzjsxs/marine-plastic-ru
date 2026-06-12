@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marine-plastic-ru.pages.dev/sitemap.xml
